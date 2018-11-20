@@ -9,4 +9,3 @@ else:
         print("Weird")
     elif 20 < number:
         print("Not Weird")
-
